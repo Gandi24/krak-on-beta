@@ -1,38 +1,595 @@
 [
   {
-    "key": "template",
-    "length": "~4 godziny",
-    "title": "Na razie jest tu pusto",
-    "author": "Twój Mistrz Gry",
+    "key": "la_candela",
+    "length": "4 godziny",
+    "title": "La Candela",
+    "author": "Andrzej Pierzchała",
     "slot": "friday2",
-    "players": "20",
-    "description": "Niestety na opis naszych gier musisz jeszcze trochę zaczekać!"
+    "players": "8–32; unisex",
+    "triggers": [
+      "śmierć",
+      "żałoba",
+      "ciemność"
+    ],
+    "tags": [
+      "taniec",
+      "niemy",
+      "melodramat",
+      "parowy"
+    ],
+    "description": "<div>La Candela to larp taneczny, niemy i inspirowany wierzeniami Basków. Pierwotnie planowałem przetłumaczyć Wam Dance Macabre od Czechów, ale najpierw pozbyłem się tanga, potem warsztatów, warstwy muzycznej, struktury gry, a potem i fabuły, więc jest to nowa gra, niezawierająca nic ze swego pierwowzoru.<br/><br/>Nasza gra opowie nam o śmierci, jej godności i przeżywaniu jej. Zagramy ją w parach, ale w wielu segmentach będziecie mieli okazję wyjść poza nią.<br/><br/>Śmierć zajmuje centralne miejsce w baskijskiej kosmogonii, będąc głęboko wplecioną w bogaty system wierzeń i rytuałów. Mitologia baskijska, uważana za jedną z najstarszych w Europie, prezentuje podejście do śmierci jako części naturalnego cyklu życia.<br/><br/>Inspiracją tytułu jest treść oksytańskiej mazurki: La Candela właśnie. Baskowie i Oksytańczycy dzielą wiele przekonań i tradycji, zwłaszcza tych, co do śmierci i jej znaczenia. La Candela to to romantyczna pieśń o miłosnym spotkaniu przy świecy. Tekst nawiązuje do tradycji \"ball del fanalet\" (tańca ze świecą), popularnego na festiwalach w Katalonii i Oksytanii. Nasz larp zaś opowie o żałobie po odejściu tej ukochanej osoby.<br/><br/>Tradycyjne baskijskie obrzędy pogrzebowe były niezwykle rozbudowane. Żałoba trwała co najmniej rok, rozpoczynając się ceremonią Argia w pierwszą niedzielę po śmierci, poprzedzoną serią dziewięciu nabożeństw zwanych bederatziurrune.<br/><br/>Mam nadzieję, że spróbujemy jej razem.<br/><br/>Jaki taniec będziemy tańczyć? Balfolkowego scottisha, z elementami wariantów: m.in elementami kroków mazurki, tanga, salsy i walca. Oraz elementy fusion.<br/><br/>Nie trzeba nic umieć, warsztaty zakłada nauczenie Was wszystkiego, co potrzebujecie.<br/><br/>Pary do gry zostaną dobrane przez prowadzącego; wstępna lista par będzie dostępna po ogłoszeniu wyników naborów. Możesz umówić się z kimś na etapie zgłoszeń – jeśli nie będzie przeciwwskazań, postaramy się wziąć Wasze życzenie pod uwagę.</div>"
   },
   {
-    "key": "template",
-    "length": "~4 godziny",
-    "title": "Na razie jest tu pusto",
-    "author": "Twój Mistrz Gry",
+    "key": "rekawiczki",
+    "length": "4 godziny",
+    "title": "Rękawiczki",
+    "author": "Agnieszka Filipiak, Zofia Skowrońska, Jakub Famulski",
+    "slot": "friday2",
+    "players": "5; unisex",
+    "triggers": [
+      "wojna",
+      "morderstwo/zabójstwo",
+      "represje polityczne"
+    ],
+    "tags": [
+      "wojna",
+      "dylemat moralny",
+      "trudne wybory"
+    ],
+    "description": "<div>Warszawa, 1939 rok. Gracze wcielą się w grupę historyków sztuki z Uniwersytetu Drezdeńskiego, którzy otrzymali zadanie od samego Führera. Mają przeprowadzić operację Sonderauftrag Linz - objąć przewodniczenie nad komisją pozyskującą dzieła sztuki z podbitych terytoriów. Obrazy, rzeźby i antyki wszelkiego rodzaju powinny zostać skatalogowane, a następnie wywiezione do Niemiec, gdzie powstanie największe muzeum na świecie. To dobre dla obiektów. Będą bezpieczne poza terenem walk.<br/><br/>Tematem gry jest konflikt rozgrywający się we wnętrzu każdej z postaci, gdy praca zmusza ją do udziału w coraz bardziej moralnie obciążających procederach. Gra daje pole do eksplorowania konfliktu w psychice człowieka, spowodowanego niemożliwością pogodzenia obowiązków, wynikających z wykonywanej pracy, z prywatnymi przekonaniami moralnymi.<br/><br/>Czy naprawdę ma się wolny wybór? I gdzie leży granica tego, co jesteśmy w stanie zrobić z rozkazu lub dla wyższej konieczności?</div>"
+  },
+  {
+    "key": "goodnight_miami",
+    "length": "4 godziny",
+    "title": "Goodnight Miami",
+    "author": "Jakub „Gandi” Wasielak",
+    "slot": "friday2",
+    "players": "4–5 (2k, 3m)",
+    "triggers": [
+      "śmierć",
+      "samobójstwo",
+      "śmierć bliskiej osoby",
+      "epidemia",
+      "ciemność",
+      "zombie",
+      "broń palna"
+    ],
+    "tags": [
+      "horror",
+      "ameryka",
+      "audycja",
+      "zimna woda"
+    ],
+    "description": "<div>Słuchasz audycji Goodnight Miami, na żywo dla Magic City. Duszne powietrze podziękowało nam za dzień na plaży, a jego miejsce zajmuje nocna bryza. Wybiła godzina 9 wieczór i zostajemy z Wami, naszymi wiernymi odbiorcami, aż do północy. Noc jest porą, w której z ciemnych zakamarków nawiedzają nas demony i to o nich będziemy dzisiaj rozmawiać. I Ty możesz podzielić się swoją historią dzwoniąc na (305) 550-1000. Mamy już pierwszy telefon. Witaj, jesteś na antenie. Halo?\"<br/><br/>Goodnight Miami jest larpem-audycją. Gracze będący obsługą oddalonej od miasta stacji radiowej w trakcie całego trwania gry będą odpowiedzialni za trwanie audycji - zarówno przez odtwarzanie muzyki, jak i rozmowy ze słuchaczami. Tego wieczoru jednak Miami nie zaśnie spokojnie, ponieważ do portu zawinął nieoznakowany kuter, który na zawsze odmieni los tego miasta.<br/><br/>Gra jest inspirowana filmem Pontypool. Gracze będą odczuwać narastające poczucie osaczenia i odpowiedzialności za bycie ostatnią twierdzą, bo gdy zgaśnie napis ON AIR, dla wielu uwięzionych w domach zgaśnie ostatnia nadzieja.</div>"
+  },
+  {
+    "key": "awatar_rozdroza",
+    "length": "4 godziny",
+    "title": "Awatar: Rozdroża",
+    "author": "Mikołaj Adamczyk, Weronika Kalinowska",
     "slot": "saturday1",
-    "players": "20",
-    "description": "Niestety na opis naszych gier musisz jeszcze trochę zaczekać!"
+    "players": "12 (4k, 4m, 4u)",
+    "doc": "https://drive.google.com/open?id=1npZE09zR_SGPlAFG830z5t8Qre9lIlv-",
+    "triggers": [
+      "śmierć bliskiej osoby",
+      "porzucenie/odrzucenie",
+      "ludobójstwo"
+    ],
+    "tags": [
+      "dramat",
+      "dyplomacja",
+      "rytuał",
+      "trudne wybory"
+    ],
+    "description": "<div>Woda, ogień, ziemia i powietrze. ‘Ludzie razem potrafią więcej’ - ta sentencja przekazywana jest z pokolenia na pokolenie w każdej z czterech nacji. Wspólnota daje początek tradycjom, które wzmacniają więzi, i ideom, które zmieniają świat. Im więcej ludzi, tym więcej możliwości - i tym silniejsze wzajemne oddziaływanie. Awatar stoi na straży równowagi między czterema żywiołami, dbając, by żaden nie zdominował pozostałych. Nie wyznacza jednak drogi ludzkości - jedynie stoi na straży balansu.<br/><br/>Avatar: Rozdroża to larp inspirowany światem seriali animowanych Awatar: Legenda Aanga i<br/><br/>Awatar: Legenda Korry. Podobnie jak materiał źródłowy nasza gra opowiada o chęci utrzymania balansu - pomiędzy kwestiami politycznymi i duchowymi, w życiu prywatnym i rodzinnym, w swoich narodach oraz ogólnie na świecie. Wyzwania, z jakimi będą musieli zmierzyć się postacie, odbiją się echem na losach świata, ale również będą miały wpływ na dalsze losy ich samych. Czasem samolubny gest może doprowadzić do czyjejś śmieci, a chęć niesienia pomocy skończyć się globalną katastrofą.</div>"
   },
   {
-    "key": "template",
-    "length": "~4 godziny",
-    "title": "Na razie jest tu pusto",
-    "author": "Twój Mistrz Gry",
+    "key": "shadows_of_the_forgotten",
+    "length": "max 5 godzin",
+    "title": "Shadows of the forgotten",
+    "author": "Maksym Tiseiko, Anna „Fra” Nazarenko, Hanna Homeniuk",
+    "slot": "saturday1",
+    "players": "15–20 (9k, 8m, 1u)",
+    "doc": "https://drive.google.com/open?id=1mCsh4yPempdHTK1n_47ZSApQL663he7L",
+    "triggers": [
+      "morderstwo/zabójstwo",
+      "śmierć",
+      "samobójstwo",
+      "relacje patriarchalne",
+      "zdrada",
+      "utrata dziecka",
+      "niechciana ciąża",
+      "zemsta"
+    ],
+    "tags": [
+      "etniczny",
+      "rodzina",
+      "dramat",
+      "mistycyzm"
+    ],
+    "description": "<div>A larp about passion, family, regrets, fate, hope, and death in a small Ukrainian village<br/><br/>nested in the heart of the Carpathian mountains. Take part in rituals and family drama in a place forgotten by time, where the line between the mundane and the sacred blurs. The game genre is magical realism, where everyday village life coexists with forest spirits, witchcraft, and the Shadows of the dead. Together we play out five seasons of the village's life: Spring, Summer, Autumn, Winter, and then Spring again. Each season begins with the community gathering for traditional ritual. The rest of the season is free play, where players explore their character's relations and conflicts as they change with the passage of time. Players will receive pre-written characters, and authentic Ukrainian costumes and jewelry from private collections (some of them are more than one hundred years old).</div>"
+  },
+  {
+    "key": "sierpinsky_233",
+    "length": "5 godzin",
+    "title": "Sierpinsky 233",
+    "author": "Jakub „Krassus” Krasowski",
+    "slot": "saturday1",
+    "players": "8–20; unisex",
+    "triggers": [
+      "dehumanizacja",
+      "przymus",
+      "brak nadziei/celu"
+    ],
+    "tags": [
+      "androidy",
+      "kosmos",
+      "totalitaryzm",
+      "hard sf",
+      "ai"
+    ],
+    "description": "<div>Sierpinsky 233 to larp SF o grupie androidów, które mozolnie zdobywają gwiazdy - z konieczności. Świat macierzysty, Heimat, przestał nadawać się do życia, więc cała cywilizacja skupiła się na wysiłku przetrwania. Na pokładzie statku kolonizacyjnego Sierpinsky 233, trzynastej ekspedycji ku nowemu domowi, androidy trwają w cyklu pracy, snu i zapomnienia.<br/><br/>Gra polega na przechodzeniu przez kolejne cykle funkcjonowania statku: wykonywaniu obowiązków, podtrzymywaniu procedur i reagowaniu na stopniowo narastające trudności. Każda z postaci nosi w sobie fragmenty wspomnień, których pochodzenia i znaczenia początkowo nie rozumie. Odkrywanie własnej tożsamości splata się z próbą ustalenia, komu można nadal ufać. W tych okolicznościach zwykłe przedmioty, gesty i okruchy pamięci urastają do rangi symboli, za które można oddać życie.<br/><br/>Gra stawia pytania o granicę między znaczącym życiem a powtarzalną egzystencją.  Jak łatwo stworzyć system opresji, jeśli każda kolejna zasada wydaje się rozsądna, konieczna i służąca wspólnemu dobru? Co stanie się ze wspólnotą, kiedy zaufanie zacznie zanikać, a poszukiwanie tożsamości będzie stało w konflikcie z lojalnością wobec misji?<br/><br/>Czy warto kontynuować podróż, jeśli jedyne, co nas czeka, to kilka chwil obcowania z pięknem i emocjami?<br/><br/>Ten larp jest dla Ciebie, jeśli lubisz stopniowe budowanie atmosfery i relacji, wykonywanie prostych czynności jako część doświadczenia, odkrywanie tożsamości postaci, niepewność, spadek zaufania i dylematy bez dobrych rozwiązań.<br/><br/>Ten larp nie jest dla Ciebie, jeśli oczekujesz dynamicznej akcji, swobodnej improwizacji komediowej, widowiskowej fabuły przygodowej albo wyraźnego podziału na bohaterów i antagonistów.<br/><br/>Hard science-fiction o powinności, pamięci, tożsamości i dehumanizacji. Estetyka retrofuturystyczna, inspirowana Signalis, O-bi, O-ba: Koniec cywilizacji, Severance oraz klasyką Stanisława Lema, Janusza A. Zajdla i Philipa K. Dicka.<br/><br/>W grze znajdują się treści wygenerowane lub zmodyfikowane z pomocą AI.</div>"
+  },
+  {
+    "key": "ortalion",
+    "length": "4 godziny",
+    "title": "Ortalion",
+    "author": "Emilia Czerniawska",
+    "slot": "saturday1",
+    "players": "16 (6k, 10m) + 2–3 NPC",
+    "doc": "https://drive.google.com/open?id=1CLmt7A8-bM1oIUNBl7quUlsDNzSGbtyH5P6vP9YNXYw",
+    "triggers": [
+      "agresja",
+      "seksizm",
+      "toksyczne relacje",
+      "zdrada",
+      "narkotyki/używki",
+      "AIDS",
+      "uzależnienia",
+      "porzucenie/odrzucenie",
+      "niepełna rodzina",
+      "przemoc domowa",
+      "alkohol/alkoholizm",
+      "śmierć",
+      "pornografia",
+      "samobójstwo",
+      "sekta",
+      "przemoc seksualna"
+    ],
+    "tags": [
+      "hip hop",
+      "osiedlowe akcje",
+      "realizm",
+      "kibole",
+      "transformacja"
+    ],
+    "description": "<div>Całą Warszawą wstrząsnęły wydarzenia niedzielnego wieczoru - derby po meczu Legia-Polonia przerodziły się w krwawe walki uliczne między siłami policji a fanami obu drużyn. Ostateczny rozrachunek nie jest znany, wiadomo jednak, że duża grupa pseudokibiców i niebezpiecznych indywiduów trafiła do aresztu, a reszta członków klubów zaszyła się po swoich melinach, liżąc rany. Chodzą również plotki o ofiarach śmiertelnych, ale nie wiadomo, czy to nie jedynie skok na dziennikarską sensację. W mediach wypowiadają się przedstawiciele policji i inni specjaliści, ale mało komu przychodzi do głowy, by o wersję wydarzeń wypytać wśród warszawskiej młodzieży. Mało kto też wie, że w nastoletnich kręgach zawrzało, gdy z dzielnicowych rozgrywek wskutek policyjnej interwencji odpadła śródmiejska grupa, a kilka znaczących sylwetek przepadło jak kamień w wodę…<br/><br/>Podczas gry “ORTALION” wcielicie się w nastolatków z warszawskich blokowisk lat 90-tych, dorastających w potransformacyjnej Polsce, gdzie drapieżny kapitalizm ściga się łeb w łeb z nieudolnością polityków, policyjną brutalnością i wszechobecnym nepotyzmem. Przeżyjecie wieczór z ich życia, bujającego się do rytmu hiphopowych tracków, próbującego odwrócić uwagę od szaro rysującej się przyszłości. Spotkacie innych, podobnych wam mieszkańców olbrzymich mrówkowców i podejmiecie decyzje, które - jak to bywa na ulicy - mogą zaważyć o całym waszym życiu.<br/><br/>Gra traktująca o spotkaniu “wysłanników” czterech warszawskich dzielnic, którzy muszą postanowić, co zrobić w sprawie niedawnych derbów oraz zmienionej równowagi sił. Silne wątki obyczajowe, zakorzenione w estetyce i problematyce Polski lat 90-tych, oraz rozbudowane relacje będą istotnym elementem rozgrywki.</div>"
+  },
+  {
+    "key": "kult_bachusa_i_astarte",
+    "length": "max 5 godzin",
+    "title": "Kult Bachusa i Astarte",
+    "author": "Charlie Zarębska",
+    "slot": "saturday1",
+    "players": "6 (3k, 3m)",
+    "doc": "https://drive.google.com/open?id=1T8f_Nnuxsv56PB8VsoDQhZ4mhsUc_QPh",
+    "triggers": [
+      "okultyzm",
+      "szaleństwo",
+      "strach",
+      "zdrada",
+      "romans",
+      "ciemność"
+    ],
+    "tags": [
+      "okultyzm",
+      "współczesność",
+      "dramat",
+      "konflikty"
+    ],
+    "description": "<div>Szóstka przyjaciół wyjeżdża na weekend, żeby odpocząć od zgiełku miasta, studiów i innych problemów. Niby wyjazd jak wszystkie poprzednie, a jednak tak diametralnie od nich różny. Konflikty wewnątrz grupy zdają się osiągać apogeum i potrzeba tylko iskry, żeby zburzyć iluzję normalności, którą wszyscy tak rozpaczliwie starają się podtrzymać. Jest jeszcze coś więcej. Zamiast zwykłej popijawy przyjaciele planują tego wieczoru odprawić rytuał ku czci Bachusa – boga wina, teatru i rytualnego szaleństwa.<br/><br/>Ich świat zmieni się z momentem, z którym wyleją pierwszą libację.<br/><br/>„Kult Bachusa i Astarte” to debiutancki larp Charlie Zarębskiej zrodzony z miłości do estetyki dark academia, fascynacji kulturą antycznej Grecji i zamiłowania do zgłębienia najciemniejszych meandrów ludzkiej psychiki. Jest opowieścią o ludziach naznaczonych tragicznymi cechami, których za nic nie chcą pokazać światu, o boskim szaleństwie, w które popadną oraz o zacieraniu się granicy między snem a jawą. To historia o wściekłości, rozpaczy i paraliżującym strachu.<br/><br/>TRIGGERY: okultyzm, szaleństwo, strach, zdrada, romans, ciemność</div>"
+  },
+  {
+    "key": "headline",
+    "length": "4 godziny",
+    "title": "Headline",
+    "author": "Bartosz Bruski (prowadzący); Aleksander Tukaj, Paweł Jurgiel (twórcy)",
+    "slot": "saturday1",
+    "players": "10 (4k, 6m)",
+    "triggers": [
+      "przemoc",
+      "śmierć",
+      "śmierć dzieci",
+      "bezsilność",
+      "fakty historyczne"
+    ],
+    "tags": [
+      "dramat",
+      "dokument",
+      "dziennikarstwo",
+      "prawda",
+      "debata"
+    ],
+    "description": "<div>\"Headline\" to gra o redakcji gazety w latach '70, redakcji rzuconej w wir wstrząsającego całym krajem polityczno-ideologicznego konfliktu, podczas którego giną ludzie.<br/><br/>To gra o dziennikarzach, prasie i obrazie świata jaki kształtują media. O kłamstwie w dobrej wierze, niewygodnych faktach, ludzkich powodach stojących za czymś na wskroś ideologicznym, dylematach zaangażowanych ludzi, napięciu, stresie i odpowiedzialności. Wreszcie, jest to gra w którą można zagrać żeby opowiedzieć dramatyczną historię, lub żeby poczuć niepewność, rozdarcie, a może i odrobinę odwagi czy poczucia spełnionego obowiązku.<br/><br/>Role są przygotowane z góry, narzucają postaci pewien zestaw zachowań i poglądów. Nie jest to gra akcji, ani też rozbudowana gra polityczna o spisku ani wielkiej intrydze. Na graczy czeka po prostu wybór między mówieniem tego co powiedzieć należy, co powiedzieć się chce, i co jest PRAWDĄ. Larp zawiera sporą ilość intensywnych debat nad stołem pod presją, oraz konfliktów wartości i charakterów, co może być męczące i w jakimś stopniu testować prawdziwą cierpliwość i upór gracza.<br/><br/>Mile widziane stroje i rekwizyty w klimacie (biała koszula i ciemne spodnie/spódnica to sensowne minimum).</div>"
+  },
+  {
+    "key": "duzy_john",
+    "length": "max 5 godzin",
+    "title": "Duży John",
+    "author": "Jakub Barański",
+    "slot": "saturday1",
+    "players": "13; unisex",
+    "triggers": [
+      "bunt maszyn",
+      "morderstwo/zabójstwo",
+      "zdrada"
+    ],
+    "tags": [
+      "bot",
+      "cyberpunk",
+      "detektyw",
+      "system",
+      "śledztwo"
+    ],
+    "description": "<div>DUŻY JOHN – program śledczy służący do odtwarzania, wykrywania, oraz neutralizowania przestępstw popełnianych w tzw. SYSTEMIE, czyli wirtualnej rzeczywistości, do której przeniosło się życie ludzi pod koniec XXI wieku. Pierwsze użycie programu miało miejsce w 2118 roku. Ówczesne możliwości pozwoliły na wykorzystanie 8 BOTÓW aktualizowanych w trakcie śledztwa o kolejne LOGI SYSTEMOWE.<br/><br/>„Duży John” to narratywistyczny larp cyberpunkowo-detektywistyczny, inspirowany filmem „Łowca androidów” Ridleya Scotta, larpem „System” Malwiny Otto i Marcina Słowikowskiego oraz larpem „Elektryczne owce” Bartka Zioło. Jego akcja ma miejsce w wirtualnej rzeczywistości. 5 osób biorących udział w grze wcieli się w role użytkowników zaangażowanych w prowadzenie śledztwa. W trakcie gry użytkownicy będą mogli zyskać dostęp do nowych informacji, które mogą istotnie wpłynąć na sposób odgrywania. 8 osób wcieli się w boty śledcze o początkowo ograniczonych zdolnościach i decyzyjności. Ich zadaniem będzie odtwarzanie i analizowanie, pod okiem użytkowników, prawdopodobnego przebiegu będących przedmiotem śledztwa wydarzeń na podstawie posiadanej wiedzy. Wraz z rozwojem gry boty będą mogły otrzymać dodatkowe informacje oraz równocześnie zwiększyć możliwości działania, analizy i wpływu na śledztwo.<br/><br/>Wszystkie osoby biorące udział w grze powinny być przygotowane na istotne dla larpa rozwiązania takie jak: rozdzielenie wiedzy postaci od wiedzy gracza/graczki, natychmiastowa i diametralna zmiana charakteru odgrywanej postaci na podstawie otrzymanych w trakcie gry informacji, płynne zmienianie odgrywanej postaci na inną bez przerywania/opuszczania/zatrzymywania gry.<br/><br/>Mile widziane stroje lub elementy strojów w stylistyce neo noir lub cyberpunk.</div>"
+  },
+  {
+    "key": "star_wars_cienie_pokoju",
+    "length": "max 5 godzin",
+    "title": "Star Wars: Cienie Pokoju",
+    "author": "Ewelina Cieśla, Hubert Mroziński",
     "slot": "saturday2",
-    "players": "20",
-    "description": "Niestety na opis naszych gier musisz jeszcze trochę zaczekać!"
+    "players": "12; unisex",
+    "triggers": [
+      "nienawiść",
+      "przemoc fizyczna",
+      "manipulacja",
+      "przemoc psychiczna",
+      "zdrada",
+      "trauma/PTSD",
+      "toksyczne relacje"
+    ],
+    "tags": [
+      "negocjacje",
+      "starwars",
+      "scifi"
+    ],
+    "description": "<div>Po tysiącach lat pokoju galaktykę znów ogarnia wojna. Imperium Sithów powraca i na drodze do ostatecznego zwycięstwa staje mu tylko jedna planeta – Alderaan.<br/><br/>To tutaj, wśród eleganckich komnat rodu Thule, rozegrają się ostateczne losy konfliktu. Zapłoną ambicje, stare sojusze i zdrady. Czy uda się wypracować kruchy rozejm? Czy może wojna pochłonie wszystkich?<br/><br/>Cienie Pokoju to chamber larp opowiadający o negocjacjach pokojowych na Aldeeranie. Gracze wcielą się w przedstawicieli Imperium i Republiki, którzy spróbują dojść do porozumienia w kwestii toczącej się wojny.  Ten larp jest dla ciebie jeżeli: - lubisz gry oparte na rozmowach i negocjacjach - lubisz intrygi i sekrety które wychodzą w trakcie gry - nie przeszkadza ci wynik larpa który nie będzie korzystny dla twojej postaci   Ten larp nie jest dla ciebie jeżeli: - chcesz przede wszystkim wygrać larpa - nie odpowiada ci gra statyczna i oczekujesz dużej ilości ruchu  - nie chcesz mieć negatywnych relacji na larpie</div>"
   },
   {
-    "key": "template",
-    "length": "~4 godziny",
-    "title": "Na razie jest tu pusto",
-    "author": "Twój Mistrz Gry",
+    "key": "drugi_raz_pierwszy_raz",
+    "length": "max 5 godzin",
+    "title": "Drugi raz pierwszy raz",
+    "author": "Artur Biesiadowski, Emilia Stachurska",
+    "slot": "saturday2",
+    "players": "10–28; unisex",
+    "triggers": [
+      "bliskość fizyczna",
+      "rozczarowania miłosne"
+    ],
+    "tags": [
+      "taniec",
+      "romans",
+      "niemy",
+      "bliskość fizyczna"
+    ],
+    "description": "<div>Drugi raz pierwszy raz to larp taneczny we współczesnym settingu, opowiadający o pierwszej miłości, o późniejszych zauroczeniach i o próbie wskrzeszenia tej iskry, która się czuło na początku. Przeprowadzi Was przez licealną miłość, studenckie zaloty, dorosły romans i trzy rozstania, by w końcu ponownie wrzucić Was w ramiona osoby, w której byliście zakochani w liceum. Razem odpowiemy sobie na pytanie, czy można dwa razy wejść do tej samej wody, jak doświadczenia z innych związków wpływają na ponowne spotkanie i czy uda się ponownie poczuć “to coś”… czy może po prostu trzeba zgodzić się na wygodny układ, bo czas ucieka.<br/><br/>Zagramy w trzech stałych parach, w czterech aktach. Każdy z aktów będzie składał się z kalibracji między graczami na poziomie meta, gdzie opowiedzą sobie nawzajem o historiach postaci do tego momentu (koloryzowanych i niedopowiedzianych) oraz ustalą oczekiwany poziom intensywności gry. Główna część aktu będzie odgrywana za pomocą tańca, bez słów. Przez opowieść poprowadzą Was znane utwory muzyczne i narracja przed każdą ze scen, podająca konkretne wydarzenia i emocje do rozegrania i częściowo narzucająca fabułę w danym akcie.<br/><br/>Gra nie zakłada żadnego wymaganego poziomu bliskości, jednak, aby bawić się dobrze, warto czuć się komfortowo z przytuleniem się do drugiego człowieka. Warsztaty zapewnią szereg narzędzi do kalibracji: zarówno pomiędzy aktami, jak i w czasie samej gry. Larp nie wymaga znajomości żadnego konkretnego stylu, ani specjalnych umiejętności tanecznych, ale jest o tańcu i wyrażaniu przez niego uczuć, więc jeżeli kompletnie nie odnajdujesz się na parkiecie i czujesz wstręt do muzyki i dzielenia ruchu z drugą osobą, to nie jest larp dla Ciebie.</div>"
+  },
+  {
+    "key": "better_love_story_than_twilight",
+    "length": "5 godzin",
+    "title": "Better love story than Twilight",
+    "author": "Agnieszka Kravár",
+    "slot": "saturday2",
+    "players": "12 (1k, 1m, 10u)",
+    "triggers": [
+      "toksyczne/niesymetryczne relacje (władza starszych wampirów nad \"kochankami\")",
+      "manipulacja",
+      "ciąża w niesprzyjających warunkach (możliwy wątek aborcji)",
+      "rasizm/dyskryminacja"
+    ],
+    "tags": [
+      "świat mroku",
+      "miłość",
+      "czerń i biel"
+    ],
+    "description": "<div>Larp dzieje się współcześnie, jest opowieścią o miłości między wampirami a ludźmi, o tym co może ona znieść, czy może być czymś dobrym, czy jest skazana na porażkę. Trzy pary kochanków Miasta zostaną wystawione na iście hiobowy zakład między szóstką starszych wampirów: Czy prawdziwa miłość - w obliczu toksycznej natury i reguł wampirów, okrutnego świata nocy - istnieje? A nawet jeśli, to… czy jest faktycznie czymś dobrym?  Celem gry nie jest \"wygranie czy przegranie\", a stworzenie poruszających i ciekawych opowieści o miłości, które zgodnie z duchem tego settingu będą w tonacji Yin i Yang - światło w mroku, cienie w świetle.</div>"
+  },
+  {
+    "key": "nie_nasza_wojna",
+    "length": "2-3 godziny",
+    "title": "Nie nasza wojna",
+    "author": "Michał Poręcki",
+    "slot": "saturday2",
+    "players": "12 (6k, 6m, 2u)",
+    "doc": "https://drive.google.com/open?id=1HLArO_fkDNdQcp_smEA_-dverb0UN36m",
+    "triggers": [
+      "przemoc",
+      "zdrada",
+      "wojna",
+      "miłość",
+      "religia",
+      "tortury",
+      "rasizm/dyskryminacja"
+    ],
+    "tags": [
+      "dramat",
+      "wojna",
+      "fantasy"
+    ],
+    "description": "<div>“Nie nasza wojna” to chamber larp rozgrywający się podczas wojny z Nilfgaardem. Akcja dzieje się w małej wiosce, obecnie znajdującej się na samej granicy konfliktu cesarstwa z Temerią. Gracze wcielą się w mieszkańców, chroniących się w lokalnej karczmie przed nowo przybyłymi wojskami Temerskimi.<br/><br/>“Wcześniej była tu Temeria. Nie było źle, było po staremu. Z dziada pradziada, żyliśmy z owoców tej ziemi nie bacząc na sprawy wielkiego świata. Potem wszystko się zmieniło. Przyszli czarni i strach na stałe zagościł w naszych sercach, lecz poradziliśmy sobie z tym. Przyzwyczailiśmy się do nich a z czasem i oni przyzwyczaili się do nas. Znów było spokojnie. Nie na długo. Teraz czarni uciekają a na horyzoncie widać białe lilie…”</div>"
+  },
+  {
+    "key": "voyager_3",
+    "length": "max 5 godzin",
+    "title": "Voyager 3: wersja reżyserska",
+    "author": "Przemysław Głomb",
+    "slot": "saturday2",
+    "players": "5–8; unisex",
+    "triggers": [
+      "śmierć"
+    ],
+    "tags": [
+      "scifi",
+      "kontrola misji",
+      "listy z ziemi"
+    ],
+    "description": "<div>Voyager 3 to opowieść o locie statku-kolonii do systemu Trappist-1. Gracze wcielają się w role oficerów statku, decydują o przebiegu eksploracji systemu i na koniec o miejscu lądowania. Od ich wyborów zależy los ich oraz setek kolonistów uśpionych w hibernatorach. Opowieść o odkrywcach, prowadzących ekspedycję w nieznane - tym razem w kosmosie, przepleciona historiami ludzi, którzy w niej uczestniczą.<br/><br/>(To jest - będzie - nieco zmieniona wersja gry, która poszła na Festiwalu SF w Warszawie w styczniu 2026, a wcześniej na Larparcie i BB3C)</div>"
+  },
+  {
+    "key": "lawnicy",
+    "length": "2-3 godziny",
+    "title": "Ławnicy",
+    "author": "Jakub Szafraniec, Katarzyna Kosiorowska (Koło Naukowe LARP AGH)",
+    "slot": "saturday2",
+    "players": "10 (2k, 5m, 3u)",
+    "triggers": [
+      "śmierć",
+      "morderstwo/zabójstwo",
+      "gore",
+      "narkotyki/używki",
+      "papierosy",
+      "alkohol/alkoholizm",
+      "dramaty rodzinne",
+      "rasizm/dyskryminacja"
+    ],
+    "tags": [
+      "dramat",
+      "morderstwo",
+      "murder mystery",
+      "PRL",
+      "12 angry men"
+    ],
+    "description": "<div>Sprawa morderstwa młodego chłopaka na Nowej Hucie zmierza ku końcowi, gdy dziesięć osób zostaje wezwanych jako ławnicy do sądu, aby zaważyć o losie oskarżonych.<br/><br/>\"Ławnicy\" to larp w klimacie \"murder mystery\" inspirowany filmem \"12 gniewnych ludzi\" (\"12 angry men\", 1957), osadzony w czasach PRL, w roku 1982. Jest to gra nastawiona na zgłębianie dowodów, odkrywanie zagadki i dojście do porozumienia z osobami obcymi i o odmiennych przekonaniach.</div>"
+  },
+  {
+    "key": "heptameron",
+    "length": "4 godziny",
+    "title": "Heptameron",
+    "author": "Szymon „Gordian” Rytka",
+    "slot": "saturday2",
+    "players": "3–7 graczy + nieograniczona publiczność; unisex",
+    "triggers": [
+      "trauma/PTSD",
+      "wyparcie"
+    ],
+    "tags": [
+      "dramat",
+      "katastrofa",
+      "traumy"
+    ],
+    "description": "<div>Na świat spadła katastrofa - wojna, epidemia, a może coś jeszcze gorszego? Siedem przypadkowych osób przypadkowo spotyka się w przypadkowym miejscu, które wydaje im się bezpieczne. Być może chcą po prostu przeczekać to nieszczęście, uciekają przed nim, a może i mają jakiś inny cel? Nie znają się, ale w takich okolicznościach… kogo to obchodzi? Od razu stają się najlepszymi przyjaciółmi. Dla odreagowania stresu zaczynają snuć wspomnienia i opowiadać sobie lekkie, zabawne, pełne błyskotliwości, miłości i absurdów historie ze swojego życia. Chcą pożyć jeszcze trochę śmiechem i marzeniami, aby odzyskać choć cząstkę tego świata, który został im zabrany, i pozbyć się wszechobecnego stresu. Problem polega tylko na tym, że stres wcale nie chce, aby się go pozbyto…</div>"
+  },
+  {
+    "key": "agnosis",
+    "length": "4–5 godzin (briefing + gra, sam larp ok. 2,5h)",
+    "title": "(A)Gnosis",
+    "author": "Bartosz „Generał” Adamiak, Klaudia „Rei” Pęcikiewicz",
+    "slot": "saturday2",
+    "players": "15 (5k, 5m, 5u)",
+    "doc": "https://canva.link/l1yk4jmism3pz3k",
+    "triggers": [
+      "religia",
+      "śmierć bliskiej osoby",
+      "śmierć własna",
+      "samotność",
+      "derealizacja",
+      "morderstwo/zabójstwo",
+      "porzucenie/odrzucenie",
+      "rytualne samobójstwo",
+      "świętokradztwo (część zależna od karty postaci)"
+    ],
+    "tags": [
+      "rytuał",
+      "przemiana",
+      "narracja",
+      "imersja",
+      "oniryzm"
+    ],
+    "description": "<div>\"Na początku istnienia świat był nieukształtowaną, spowitą mgłą krainą szarych skał, wielkich drzew i wiecznych smoków...\"<br/><br/>\"Przed obecnym światem istniał inny. Olbrzymi, prastary, o którym pamięć już dawno się zatarła...\"<br/><br/>\"Na początku była nicość. Z tej nicości wyłonił się świat - ogromny, bezkresny, rozgrzany jak płomień...\"<br/><br/>(A)Gnosis to asymetryczny larp eksperymentalny, dzielący graczy na dwie grupy, Gnosis i Agnosis. Grupy te grają według odrębnych zasad i mechanik, jedna skupia się na grze \"na zewnątrz\", druga \"do siebie\", wchodząc ze sobą jedynie w minimalne interakcje.<br/><br/>(A)Gnosis to gra nastawiona na imersję i narrację. Jej celem jest prowokować postaci graczy do poszukiwania odpowiedzi na pytania: Kim jestem? Kim mogę być? Jak mogę się zmienić? Czy chcę się zmieniać?<br/><br/>(A)Gnosis to larp rytualny, inspirowany gnostycyzmem oraz antycznymi i współczesnymi mitologiami z różnych kręgów kulturowych.</div>"
+  },
+  {
+    "key": "nie_ufaj_tengu_w_onsenie_yokai",
+    "length": "4 godziny",
+    "title": "Nie ufaj tengu w onsenie yokai",
+    "author": "Beata Subczak",
+    "slot": "saturday2",
+    "players": "12–16; unisex",
+    "triggers": [
+      "ekspozycja ciała / bielizna"
+    ],
+    "tags": [
+      "zmysły",
+      "murder mystery",
+      "eksperymentalny",
+      "kimona",
+      "anime",
+      "folklor japoński"
+    ],
+    "description": "<div>Murder mystery osadzone w świecie znanym z filmu Spirited Away (W krainie bogów) oraz anime “Kakuriyo: Bed & Breakfast for Spirits”. Istoty nadprzyrodzone znane z japońskiego folkloru korzystają z dobrodziejstw lokalnego onsenu: jedzą, piją, plotkują, doznają zabiegów onsenowych itp Część postaci odgrywa pracowników onsenu a część gości. Niestety spokojną atmosferę przerywa nowina o śmierci syna właściciela. Nikt nie opuści więc tego miejsca aż sprawa nie zostanie wyjaśniona. Nie każdemu z gości się to podoba...- larp podzielony jest na akty. W pierwszym akcie gracze wcielają się w rolę albo gosci albo pracowników i korzystają z uroków onsenu. Drugi akt rozpoczyna znalezienie ciala dalej następuje radzenie sobie z konsekwencjami morderstwa. I trzeci akt to teatr - postaci odgrywają przebieg zbrodni.</div>"
+  },
+  {
+    "key": "river_tale",
+    "length": "max 5 godzin",
+    "title": "River Tale czyli są w zwierzyńcu rachunki krzywd",
+    "author": "Marcin Pałys",
     "slot": "sunday1",
-    "players": "20",
-    "description": "Niestety na opis naszych gier musisz jeszcze trochę zaczekać!"
+    "players": "10–12; unisex",
+    "triggers": [
+      "śmierć",
+      "rasizm/dyskryminacja",
+      "cierpienie",
+      "przemoc wobec zwierząt"
+    ],
+    "tags": [
+      "trudne wybory",
+      "bycie tym złym",
+      "wszystko aby przetrwać",
+      "puchate zwierzęta robiące złe rzeczy"
+    ],
+    "description": "<div>Koty zwyciężyły. Podbiły Las, wymordowały przywódców ruchu oporu i zaczęły wprowadzać swoje porządki na polanach.  Ich władza jest jednak ciągle niepewna, a żar rewolucji tli się w sercach Leśnych Zwierząt.  Z drugiej strony wszyscy pamiętają jeszcze krwawe dni. Co musi się wydarzyć, by zwierzęta znowu chwyciły za broń?<br/><br/>River Tale to LARP, w którym Folwark Zwierzęcy spotyka Bękarty Wojny. W settingu gry planszowej Root, gracze wcielą się w zwierzęta, które starają się przetrwać okupację Kotów. Pojawią się najeźdźcy, kolaboranci, rewolucjoniści i niewinne ofiary. Celem gry jest ustalenie nowych zasad, które mają panować w podbitym Lesie.<br/><br/>W swoich założeniach LARP jest nastawiony na granie “play to find out”. Rozgrywka będzie różna dla Mieszkańców Lasu i dla Kotów. Najeźdźcy będą starali się utrzymać porządek w Lesie, natomiast pozostałe zwierzęta zdecydują czy warto rozpocząć zbrojną Rewolucję. Gra ma poszukiwać odpowiedzi na dwa pytania “Za co warto umrzeć?” i “Co muszę stracić, aby chcieć poświęcić  swoje życie za większą sprawę?”.</div>"
+  },
+  {
+    "key": "roj",
+    "length": "4–5 godzin",
+    "title": "Rój",
+    "author": "Zofia Skowrońska, Patrycjusz Kamaszuk, Paulina Misiukiewicz",
+    "slot": "sunday1",
+    "players": "10–22; unisex",
+    "triggers": [
+      "18+",
+      "gra ruchowa",
+      "dotyk i bliskość fizyczna (również w kontekście erotycznym)",
+      "zmieniające się światło",
+      "zmieniająca się muzyka",
+      "tematyka owadów (na grze nie pojawiają się prawdziwe owady, tylko ich symboliczne reprezentacje)",
+      "motyw wykluczenia",
+      "wykorzystanie miodu jako rekwizytu (możliwość pobrudzenia)",
+      "wymagane czarne/ciemne, wygodne ubrania"
+    ],
+    "tags": [
+      "pszczoły",
+      "gra ruchowa",
+      "umysł grupowy",
+      "gra ekologiczna",
+      "czarne ciuchy"
+    ],
+    "description": "<div>“Rój\" to sensualne, ruchowe doświadczenie wspólnoty, gdzie \"ja\" rozmywa się w \"my\". Aktowa gra ekologiczna, która zostawi uczestników z szerszą wiedzą o pszczołach i zaprosi do post-refleksji nad napięciami między jednostką a wspólnotowością.<br/><br/>Gracze wcielają się symbolicznie w pszczoły i korzystając ze wspólnego doświadczenia ruchu i dotyku, opowiadają historię działającego ula. Sceny wynikają w następstwie ich wyborów.</div>"
+  },
+  {
+    "key": "na_dzien_swietego_kryspina",
+    "length": "4 godziny",
+    "title": "Na Dzień Świętego Kryspina!",
+    "author": "Andrzej Pierzchała",
+    "slot": "sunday1",
+    "players": "12–20; unisex",
+    "triggers": [
+      "śmierć",
+      "przemoc",
+      "fakty historyczne",
+      "religia",
+      "przemowy i monologi"
+    ],
+    "tags": [
+      "jeepform",
+      "szekspir",
+      "metagra",
+      "dramat"
+    ],
+    "description": "<div>Kto mi ognistą muzę da, bym wzleciał<br/><br/>Do empirejskiej wyżyny twórczości!<br/><br/>Aktorów książąt, królestwo na teatr,<br/><br/>Królów na widzów bohaterskiej sceny!<br/><br/>Król Henryk wtedy w swej własnej postaci,<br/><br/>Jak Marsby stanął, przy jegoby stopach<br/><br/>Trzy psy na sforze: głód, miecz i pożoga!<br/><br/>Henryk V to kronika historyczna Williama Shakespeare'a napisana około 1599 roku, zamykająca drugą tetralogię historyczną dramaturga. Sztuka opisuje losy młodego króla Anglii, który — niegdyś znany jako hulaka i lekkoducha — dojrzewa do roli sprawnego, charyzmatycznego władcy. Centralnym wydarzeniem jest angielska inwazja na Francję.<br/><br/>Akcję napędza szereg dramatycznych momentów: zniewaga ze strony Delfina , wykrycie spisku na życie Henryka, słynna mowa przed bitwą w dniu św. Kryspina oraz humorystyczny wątek zalotów Henryka do Katarzyny — córki króla Francji, którą poślubia, pieczętując pokój między oboma krajami.<br/><br/>Dramat jest zarazem hymnem na cześć patriotyzmu i angielskiej jedności narodowej, ale też niejednoznacznym portretem władzy: Henryk wiesza dawnych przyjaciół, rozkazuje mordować jeńców, a sam chór przypomina na końcu, że tryumf okaże się krótkotrwały — po śmierci króla Anglię pochłoną Wojny Dwóch Róż. Sztuka należy do najczęściej inscenizowanych dzieł Szekspira na świecie, choć w Polsce bywa grana stosunkowo rzadko.<br/><br/>Jest też pięknym do grania porywem dumy, i okazją by wykrzyczeć co swoje.<br/><br/>Ta sztuka dała nam: \"Od chwili tej do końca świata… w pamięci ludzkiej będziemy żyć: my wybrańców garść,… kompania braci\" czy \"Lecz jeśli grzechem jest żądza zasłużonej sławy - jestem największym grzesznikiem wśród żywych\".<br/><br/>Jeepform na 12 do 20 osób, na przemian pozwalający się wcielać w aktorów, wystawiających sławetne dzieło Szekspira i postaci, które on sam opisał. Gra o dumie, odwadze i rywalizacji, kto uniesie dłoń ku niebu i wykrzyczy najlepiej sławetne słowa monologów. Jak Verona rozlicza się z Szekspirem i jego romantycznym czytadłem, tak Kryspin oddaje dramaturgowi hołd.</div>"
+  },
+  {
+    "key": "nienawistna_osemka",
+    "length": "4 godziny",
+    "title": "Nienawistna Ósemka",
+    "author": "Krzysztof „Flapjack” Maj",
+    "slot": "sunday1",
+    "players": "8; unisex",
+    "doc": "https://drive.google.com/open?id=1YTW_wgrAMOV68Ip3PNDSL1FUNwSvO_DNkOnMsCRfq5s",
+    "triggers": [
+      "przemoc",
+      "rasizm/dyskryminacja",
+      "wulgarność",
+      "narkotyki/używki"
+    ],
+    "tags": [
+      "Wiedźmin",
+      "tarantino",
+      "ukryta tożsamość"
+    ],
+    "description": "<div>Ośmioro wędrowców szukających schronienia w czasie zamieci śnieżnej trafia do karczmy na granicy pomiędzy Temerią i Redanią.<br/><br/>Wśród nich jest słynny Łowca Czarownic znany jako \"Wieszatiel\" który prowadzi skutego dwimerytem Więźnia. Twierdzi, że to przywódca Hanzy odszczepieńców odpowiedzialnych za zabójstwo Kasztelana Twierdzy Czerwonego Kamienia.<br/><br/>Czy tylko przypadek sprawia, że ranny Wiedźmin, Rycerz bez świty, Kapitan Niebieskich Pasów, Drwal, Kupiec i Elf znaleźli się w tej samej karczmie?<br/><br/>Nie sądzę…<br/><br/>Larp “Nienawistna ósemka” jest adaptacją filmu Quentina Tarantino o tym samym tytule. Na potrzeby gry akcja została przeniesiona do stworzonego przez Andrzeja Sapkowskiego uniwersum Wiedźmina.<br/><br/>W larpie gracze wcielają się w rolę wędrowców których w trakcie podróży przez góry zaskoczyła burza śnieżna. Jedynym dostępnym schronieniem jest niewielka karczma. Wśród postaci znajduje  się Łowca Czarownic oraz Więzień - przywódca hanzy odpowiedzialnej za zabójstwo Kasztelana Twierdzy Czerwonego Kamienia, oddalonego o dzień drogi od karczmy.<br/><br/>Wśród pozostałych gości ukrywają się przyjaciele więźnia, którzy będą starali się go uwolnić. Ich tożsamość jest niejawna i jeśli otrzymałeś taką rolę nie zdradzaj tego innym graczom przed larpem.</div>"
+  },
+  {
+    "key": "gra_ludowa",
+    "length": "2-3 godziny",
+    "title": "Gra ludowa",
+    "author": "Stsiapan Korf",
+    "slot": "sunday1",
+    "players": "6–14; unisex",
+    "triggers": [
+      "wojna",
+      "represje polityczne",
+      "zmiana władzy",
+      "prostytucja",
+      "alkohol/alkoholizm"
+    ],
+    "tags": [
+      "teatralny",
+      "historia",
+      "komedia",
+      "przemytnicy"
+    ],
+    "description": "<div>Zapraszamy Was na spacer po starych uliczkach przygranicznego miasteczka z pierwszej połowy XX wieku!<br/><br/>Nauczyciel Rahojsza kupuje kredę w sklepie Kazimierza Piaseckiego, Józef przy kuflu piwa w żydowskiej karczmie dyskutuje o polityce z człowiekiem w drogim garniturze, gajowy niesie na pocztę list do brata w Argentynie, a mała Nadzieja marzy o wojskowym... Siadamy na miejscach. Cisza. Światło — wyłączamy. No to start!<br/><br/>„Gra Ludowa” to kameralny larp o charakterze teatralnym, podzielony na ponad 20 krótkich epizodów. Każdy z nich odgrywany jest przez uczestników na improwizowanej scenie. Sceny opowiadają o życiu w międzywojennym Rakowie — miasteczku leżącym wówczas na pograniczu: pojawią się tu przemytnicy, agitatorzy, żydowska karczma, weseli chłopi i cwani nastolatkowie. Inspiracją i bazą dla klimatu tej gry stał się kultowy projekt muzyczny „Narodny Albom” (Album Ludowy), twórczość Sergiusza Piaseckiego (m.in. „Trylogia mińska”) oraz dramat „Tutejsi”. To żywa, realistyczna, ale przede wszystkim wesoła i pełna energii gra z dobrą dawką humoru.<br/><br/>Ten larp jest dla Ciebie, jeśli: - Lubisz formę teatralną, krótkie, dynamiczne sceny oraz improwizację. - Bliski jest Ci klimat międzywojennego pogranicza i atmosfera „Narodnego Albomu”. - Chcesz przyjść i od razu wejść w grę — wcześniejsze przygotowanie i znajomość historii nie są wymagane, wszystkie materiały i role otrzymasz na miejscu. - Szukasz czegoś lekkiego, z humorem i życiową energią, a nie ciężkiego dramatu.<br/><br/>Język gry: Wszystkie materiały przygotowane są w języku białoruskim. Zachęcamy uczestników do używania białoruskiego podczas scen, ale jesteśmy otwarci na różne języki — możesz mówić tak, jak jest Ci wygodnie.</div>"
+  },
+  {
+    "key": "hipisi_pigulki_i_przytulanie",
+    "length": "4 godziny",
+    "title": "Hipisi, pigułki i przytulanie",
+    "author": "Maciej Bugalski",
+    "slot": "sunday1",
+    "players": "11 (6k, 5m)",
+    "triggers": [
+      "przemoc",
+      "śmierć",
+      "samobójstwo",
+      "trauma/PTSD"
+    ],
+    "tags": [
+      "sekta",
+      "rave",
+      "narkotyki",
+      "przemoc",
+      "przytulanie"
+    ],
+    "description": "<div>Małe ranczo na pustyni w USA, czasy współczesne. To tutaj charyzmatyczny guru pochodzący z Indii zgromadził wokół siebie grupę amerykańskich neohipisów, którzy razem z nim medytują, ćwiczą yogę i spożywają mniej lub bardziej legalne środki psychoaktywne. Dzisiaj, jak co tydzień, wszyscy się spotykają na sobotnią praktykę z guru. Ma być medytacja, yoga i pewnie jakieś pigułki. Jednakże tym razem nie wszystko pójdzie zgodnie z planem.<br/><br/>Gra opowiada o jednym wieczorze z życia sekty współczesnych hipisów zapatrzonych w duchowość rodem ze wschodnich, dalekich krain. Gracze mogą się spodziewać rozmów, medytacji w ruchu i pewnej ilości przytulania.</div>"
+  },
+  {
+    "key": "starzy_przyjaciele",
+    "length": "max 5 godzin",
+    "title": "Starzy Przyjaciele",
+    "author": "Rafał Cupiał",
+    "slot": "sunday1",
+    "players": "5–8; unisex",
+    "doc": "https://drive.google.com/open?id=1wYKtpd-v6ytHeR6KPrDau5DI02wRTPpo",
+    "triggers": [
+      "duchy",
+      "śmierć i żałoba",
+      "poczucie winy",
+      "potencjalne morderstwo i współudział w śmierci",
+      "choroba terminalna",
+      "kryzys psychiczny i pobyt w instytucjach",
+      "nadużywanie substancji",
+      "toksyczne i konfliktowe relacje, zdrada oraz wrogość między postaciami",
+      "opętanie i utrata kontroli nad własnym zachowaniem",
+      "krzyk, konwulsje i inne reakcje związane z opętaniem"
+    ],
+    "tags": [
+      "horror",
+      "duchy",
+      "maska",
+      "dramat",
+      "umysł grupowy"
+    ],
+    "description": "<div>1996. Byliście drużyną łowców duchów. Przez kilka lat wchodziliście tam, gdzie inni bali się wejść, i pomagaliście zmarłym odejść. Byliście skuteczni - mimo konfliktów, rywalizacji i rzeczy, których nigdy sobie nie powiedzieliście.<br/><br/>Aż podczas jednej z akcji zginęła Sara.<br/><br/>Grupa się rozpadła. Śledztwo zamknięto, każdy poszedł swoją drogą, a o tym, co naprawdę wydarzyło się tamtej nocy, nauczyliście się milczeć.<br/><br/>Dwadzieścia lat później spotykacie się ponownie. W tej samej szkole. W tej samej sali. Na jeszcze jedną, ostatnią sesję.<br/><br/>„Starzy Przyjaciele” to kameralny larp grozy o dawnych przyjaciołach, winie, pamięci i rzeczach, których nie da się pogrzebać. Gracie bez podziału na sceny, w czasie rzeczywistym. Relacje i wspólna historia bohaterów powstają podczas krótkiego warsztatu przed grą, a to, co naprawdę wydarzyło się w przeszłości, nie jest z góry ustalone - odkryjecie, a właściwie stworzycie to razem podczas gry.<br/><br/>Centralnym elementem larpa jest maska, za pomocą której bohaterowie pozwalają przemówić duchom. Każdy z graczy będzie miał okazję znaleźć się po jej drugiej stronie.<br/><br/>Gra jest polską edycją larpa „Old Friends” Jasona Morningstara i Ole Pedera Giævera, poprowadzoną za oficjalną zgodą autorów.</div>"
   }
 ]
