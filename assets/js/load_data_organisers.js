@@ -20,8 +20,16 @@ document.addEventListener("DOMContentLoaded", function() {
                 }
             });
 
-            // Render each team with leader + members
-            teamsMap.forEach((group, teamName) => {
+            // Render each team with leader + members, honorable mentions last
+            const orderedTeams = [...teamsMap.keys()].sort((a, b) => {
+                if (a === 'honorable') return 1;
+                if (b === 'honorable') return -1;
+                return 0;
+            });
+
+            orderedTeams.forEach(teamNameKey => {
+                const group = teamsMap.get(teamNameKey);
+                let teamName = teamNameKey;
                 if (teamName === 'honorable') {
                     teamName = 'Honorable mentions<br>(to oni tworzyli z nami poprzednie Krak-ONy i dołożyli dużą cegiełkę do obecnego kształtu festiwalu)';
                 }
