@@ -1,6 +1,6 @@
 // Load data from a JSON larps and display it on the page
 document.addEventListener("DOMContentLoaded", function() {
-    fetch('assets/data/larps260208.json')
+    fetch('assets/data/larps260908.json')
         .then(response => response.json())
         .then(data => {
             const friday2 = document.getElementById('scheduleFriday2');
