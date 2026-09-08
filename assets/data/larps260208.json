@@ -85,7 +85,7 @@
   },
   {
     "key": "shadows_of_the_forgotten",
-    "length": "max 5 godzin",
+    "length": "5 godzin",
     "title": "Shadows of the forgotten",
     "author": "Maksym Tiseiko, Anna „Fra” Nazarenko, Hanna Homeniuk",
     "slot": "saturday1",
@@ -167,7 +167,7 @@
   },
   {
     "key": "kult_bachusa_i_astarte",
-    "length": "max 5 godzin",
+    "length": "5 godzin",
     "title": "Kult Bachusa i Astarte",
     "author": "Charlie Zarębska",
     "slot": "saturday1",
@@ -214,7 +214,7 @@
   },
   {
     "key": "duzy_john",
-    "length": "max 5 godzin",
+    "length": "5 godzin",
     "title": "Duży John",
     "author": "Jakub Barański",
     "slot": "saturday1",
@@ -235,7 +235,7 @@
   },
   {
     "key": "star_wars_cienie_pokoju",
-    "length": "max 5 godzin",
+    "length": "5 godzin",
     "title": "Star Wars: Cienie Pokoju",
     "author": "Ewelina Cieśla, Hubert Mroziński",
     "slot": "saturday2",
@@ -258,7 +258,7 @@
   },
   {
     "key": "drugi_raz_pierwszy_raz",
-    "length": "max 5 godzin",
+    "length": "5 godzin",
     "title": "Drugi raz pierwszy raz",
     "author": "Artur Biesiadowski, Emilia Stachurska",
     "slot": "saturday2",
@@ -321,7 +321,7 @@
   },
   {
     "key": "voyager_3",
-    "length": "max 5 godzin",
+    "length": "5 godzin",
     "title": "Voyager 3: wersja reżyserska",
     "author": "Przemysław Głomb",
     "slot": "saturday2",
@@ -430,7 +430,7 @@
   },
   {
     "key": "river_tale",
-    "length": "max 5 godzin",
+    "length": "5 godzin",
     "title": "River Tale czyli są w zwierzyńcu rachunki krzywd",
     "author": "Marcin Pałys",
     "slot": "sunday1",
@@ -565,7 +565,7 @@
   },
   {
     "key": "starzy_przyjaciele",
-    "length": "max 5 godzin",
+    "length": "5 godzin",
     "title": "Starzy Przyjaciele",
     "author": "Rafał Cupiał",
     "slot": "sunday1",
